@@ -24,13 +24,10 @@
 3.	Ensure that the original .bmp file is in the same directory as ClientServer.py.  
 4.	Ensure that the installed version of Python is compatible with the code. The code was created and evaluated using Python 3.10.  
 5.	Open a terminal (Windows command prompt) and go to the folder containing the two Python files.  
-6.	The following command will initiate the ImageServer.py script: **Python ImageServer.py**
-   The result should say “The server is ready to receive”  
+6.	The following command will initiate the ImageServer.py script: **Python ImageServer.py**. The result should say “The server is ready to receive”  
 
 8.	Open a second terminal (command prompt on Windows) and go to the directory containing the two Python files.  
-9.	To initiate the ClientServer.py script, use the following command: **Python ClientServer.py**
-
-The output should display the hostname and IP address of the client as well as a message indicating that the client is connected to the server.  
+9.	To initiate the ClientServer.py script, use the following command: **Python ClientServer.py**. The output should display the hostname and IP address of the client as well as a message indicating that the client is connected to the server.  
 
 9.	Once the ClientServer.py script has completed executing, a new “received_image.bmp” file should be created in the same folder as the two Python scripts.  
 10.	When the transfer is completed, the connection between the server and client will close.  
