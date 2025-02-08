@@ -19,10 +19,8 @@ d.	Ensure Visual Studio is downloaded on your Windows OS.
 
 3.	Once the files are opened and you are able to see the code for each server and client, navigate or search for “cmd” (command prompt) on your Windows machine. Open two command prompts so both the client and server can be run. Navigate to your directory by typing in “cd” and the directory name (“cd desktop”). Do this until you have reached the final directory and can access the client and server files.  
 4.	When reaching the end of the directory, you are able to run the client and server files. IMPORTANT: The server file must be started up first and then the client.  
-i.	To run the “udpserver.py” file:  
-•	Enter the command “py udpserver.py” in the command line.  
-ii.	To run the “udpclient.py” file:  
-•	Enter the command “py udpclient.py” in the command line.  
+i.	To run the “udpserver.py” file: Enter the command “py udpserver.py” in the command line.  
+ii.	To run the “udpclient.py” file: Enter the command “py udpclient.py” in the command line.  
 
 # Expected Behavior
 1.	When the “udpserver” is run, the command line will remain open and waits for a client connection.
