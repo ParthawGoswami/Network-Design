@@ -1,6 +1,6 @@
 # Title and Authors
 
-•	Phase 1(a)  
+•	Phase 1(a):  transfer a message (Say “HELLO”) from the UDP client to the UDP server and then ECHO the message back from the UDP server to the UDP client.    
 •	Parthaw Goswami 02196346  
 # Environment
 
