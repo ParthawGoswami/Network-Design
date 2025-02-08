@@ -1,7 +1,7 @@
 # Title and Authors
 
-•	Phase 1(a) /n
-•	Parthaw Goswami 02196346
+•	Phase 1(a)  
+•	Parthaw Goswami 02196346  
 # Environment
 
 •	Windows OS
