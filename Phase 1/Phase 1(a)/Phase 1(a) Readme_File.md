@@ -1,13 +1,13 @@
-Title and Authors
+# Title and Authors
 
 •	Phase 1(a)
 •	Parthaw Goswami 02196346
-Environment
+# Environment
 
 •	Windows OS
 •	Python 3.10 (64-bit)
 •	Visual Studio 2019
-Instructions
+# Instructions
 
 1.	Download the “Phase1(a).zip” file and export the file to Visual Studio.
 a.	Extract the contents of the zip folder.
@@ -30,7 +30,7 @@ i.	To run the “udpserver.py” file:
 ii.	To run the “udpclient.py” file:
 1.	Enter the command “py udpclient.py” in the command line.
 
-Expected Behavior
+# Expected Behavior
 1.	When the “udpserver” is run, the command line will remain open and waits for a client connection.
 a.	“Server Socket Established.”
 b.	“The server is ready to receive”
@@ -44,10 +44,10 @@ ii.	“Server is sending back the input: HELLO”
 c.	On the client command line you will see a message that the server has sent back the message:
 i.	“Received from server: HELLO”
 
-Information of IDE
+# Information of IDE
 
 •	Visual Studio 2019
 •	Python 3.10 (64-bit)
 
-References
+## References
 1.	Vokkarane, V. (2023). Socket Programming 101 in Python [Programming].
