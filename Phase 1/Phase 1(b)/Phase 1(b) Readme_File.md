@@ -2,9 +2,9 @@
 •	Phase 1 (b): UDP File Transfer with RDT 1.0  
 •	Parthaw Goswami 02196346
 # Environment
-•	What OS we used for our code. e.g.: Windows
-•	The name of the programming language we used: Python.
-•	The version of programming language:  Python 3.10
+•	What OS we used for our code. e.g.: Windows  
+•	The name of the programming language we used: Python.  
+•	The version of programming language:  Python 3.10  
 # Files inside .zip Folder (Network-Design.zip)
 •	Phase 1 Folder
 1.	Phase 1(a) Folder
