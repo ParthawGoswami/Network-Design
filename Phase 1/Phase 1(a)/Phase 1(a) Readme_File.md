@@ -1,6 +1,6 @@
 # Title and Authors
 
-•	Phase 1(a)/n
+•	Phase 1(a) /n
 •	Parthaw Goswami 02196346
 # Environment
 
