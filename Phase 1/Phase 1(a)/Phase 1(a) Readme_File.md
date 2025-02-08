@@ -9,9 +9,9 @@
 •	Visual Studio 2019  
 # Instructions
 
-1.	Download the “Phase1.zip” file and export the file to Visual Studio.  
+1.	Download the “Phase 1.zip” file and export the file to Visual Studio.  
 a.	Extract the contents of the zip folder. Place the newly extracted folder in a destination in which is easy to access, such as “Desktop” or leave it in “Downloads”.  
-b.	This file contains the “Phase1(a)” Folder which contains a “Phase 1(a) Readme_File”, “udpclient.py”, and “udpserver.py”.  
+b.	This file contains the “Phase 1(a)” Folder which contains a “Phase 1(a) Readme_File”, “udpclient.py”, and “udpserver.py”.  
 c.	The files that will be used to run the client and server will be “udpclient.py” and “udpserver.py”.  
 d.	Ensure Visual Studio is downloaded on your Windows OS.  
 
