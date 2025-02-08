@@ -28,8 +28,8 @@ a.	“Server Socket Established.”
 b.	“The server is ready to receive”  
 2.	When the “udpclient” is run, a “HELLO” message will be sent to the server.  
 a.	At the start you will see two messages:  
-  i.	“Client is connected to server”  
-  ii.	“Client is sending message…”  
+    i.	“Client is connected to server”  
+    ii.	“Client is sending message…”  
 b.	Two new lines will show up indicating the client’s input.  
 i.	“Input from client = HELLO”  
 ii.	“Server is sending back the input: HELLO”  
