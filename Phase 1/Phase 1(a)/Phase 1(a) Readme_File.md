@@ -23,23 +23,23 @@ i.	To run the “udpserver.py” file: Enter the command “py udpserver.py” i
 ii.	To run the “udpclient.py” file: Enter the command “py udpclient.py” in the command line.  
 
 # Expected Behavior
-1.	When the “udpserver” is run, the command line will remain open and waits for a client connection.
-a.	“Server Socket Established.”
-b.	“The server is ready to receive”
-2.	When the “udpclient” is run, a “HELLO” message will be sent to the server.
-a.	At the start you will see two messages:
-i.	“Client is connected to server”
-ii.	“Client is sending message…”
-b.	Two new lines will show up indicating the client’s input.
-i.	“Input from client = HELLO”
-ii.	“Server is sending back the input: HELLO”
-c.	On the client command line you will see a message that the server has sent back the message:
-i.	“Received from server: HELLO”
+1.	When the “udpserver” is run, the command line will remain open and waits for a client connection.  
+a.	“Server Socket Established.”  
+b.	“The server is ready to receive”  
+2.	When the “udpclient” is run, a “HELLO” message will be sent to the server.  
+a.	At the start you will see two messages:  
+i.	“Client is connected to server”  
+ii.	“Client is sending message…”  
+b.	Two new lines will show up indicating the client’s input.  
+i.	“Input from client = HELLO”  
+ii.	“Server is sending back the input: HELLO”  
+c.	On the client command line you will see a message that the server has sent back the message:  
+i.	“Received from server: HELLO”  
 
 # Information of IDE
 
-•	Visual Studio 2019
-•	Python 3.10 (64-bit)
+•	Visual Studio 2019  
+•	Python 3.10 (64-bit)  
 
 ## References
 1.	Vokkarane, V. (2023). Socket Programming 101 in Python [Programming].
