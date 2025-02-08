@@ -4,10 +4,10 @@
 -	Phase 1(a) Readme_File  
 -	udpclient.py  
 -	udpserver.py  
-o	Phase 1(b) Folder  
-	Phase 1(b) Readme_File  
-	ImageServer.py  
-	ClientServer.py  
-	tricolor.bmp (file that has been sent)  
-	received_image.bmp (file that has been received)  
-o	Design Document Phase 1  
+2.	Phase 1(b) Folder  
+-	Phase 1(b) Readme_File  
+-	ImageServer.py  
+-	ClientServer.py  
+-	tricolor.bmp (file that has been sent)  
+-	received_image.bmp (file that has been received)  
+3.	Design Document Phase 1  
