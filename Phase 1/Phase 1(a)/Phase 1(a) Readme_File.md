@@ -1,4 +1,4 @@
-# Title and Authors
+# Title and Author
 
 •	Phase 1(a): Transfer a message from UDP client to UDP server and then ECHO the message back from UDP server to UDP client.    
 •	Parthaw Goswami 02196346  
