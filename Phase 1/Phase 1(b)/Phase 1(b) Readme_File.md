@@ -1,5 +1,5 @@
 # Title and Authors
-•	Phase 1 (b): UDP File Transfer with RDT 1.0 - Design Document  
+•	Phase 1 (b): UDP File Transfer with RDT 1.0  
 •	Parthaw Goswami 02196346
 # Environment
 •	What OS we used for our code. e.g.: Windows
