@@ -36,7 +36,7 @@ This project implements an image transfer system using UDP communication between
 1. **Start the Image Server**
 
    ```sh
-   python imageserver.py
+   python ImageServer.py
    ```
 
    The server will start listening on port `12000` for incoming packets.
@@ -44,7 +44,7 @@ This project implements an image transfer system using UDP communication between
 2. **Run the Client Server**
 
    ```sh
-   python clientserver.py
+   python ClientServer.py
    ```
 
    The client will prompt for an error simulation mode:
