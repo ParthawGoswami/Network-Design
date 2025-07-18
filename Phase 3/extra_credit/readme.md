@@ -8,7 +8,7 @@ Project: Reliable Data Transfer (RDT 3.0) over an Unreliable UDP Channel with Bi
 
 Course: EECE-5830
 Instructor: Prof. Vinod Vokkarane
-Group Members:
+## Group Members:
 	•	Parthaw Goswami 
   •	Ayush Pandey
 	•	Luis Daniel Peña Mateo
