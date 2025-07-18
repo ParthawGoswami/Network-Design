@@ -10,7 +10,7 @@ Course: EECE-5830
 Instructor: Prof. Vinod Vokkarane
 ## Group Members:
 	•	Parthaw Goswami 
-  •	Ayush Pandey
+	•	Ayush Pandey
 	•	Luis Daniel Peña Mateo
 	•	Joseph Nguyen
 
